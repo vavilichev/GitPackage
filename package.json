@@ -1,8 +1,15 @@
 {
   "name": "com.gamedevlavka.gitpackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Git Package",
   "description": "Этот пакет сделан в Лавке Разработчика",
   "unity": "2019.1",
-  "dependencies": { }
+  "dependencies": { },
+  "samples": [
+    {
+      "displayName": "Git Package Sample",
+      "description": "Описание примера",
+      "path": "Example~/Git Package Sample"
+    }
+  ]
 }
