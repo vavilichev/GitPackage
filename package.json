@@ -1,0 +1,8 @@
+{
+  "name": "com.gamedevlavka.gitpackage",
+  "version": "1.0.0",
+  "displayName": "Git Package",
+  "description": "Этот пакет сделан в Лавке Разработчика",
+  "unity": "2019.1",
+  "dependencies": { }
+}
